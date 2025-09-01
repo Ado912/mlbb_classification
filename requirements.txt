@@ -3,5 +3,4 @@ matplotlib
 seabron
 scikit-learn
 joblib
-
 streamlit
