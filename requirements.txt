@@ -1,6 +1,7 @@
 pandas
-matpoltlib
+matplotlib
 seabron
 scikit-learn
 joblib
+
 streamlit
